@@ -1,6 +1,7 @@
 #!/bin/bash
 # exercicio 2
-#Eu sou tryber e vou criar uma fazenda digital.
+#“Vou ter muito sucesso na programação!”
+
 
 
 texto="Shell Script é demais!"
